@@ -1,0 +1,9 @@
+{
+    "debug": "true",
+
+    "backing_layer_material": "aluminum",
+    
+    "radioisotope_layer_material": "polonium"
+
+
+}
